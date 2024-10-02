@@ -1,120 +1,0 @@
-﻿PRELIM + LAB QUIZ 1
-This category includes the computer itself, which is often referred to as the central processing unit (CPU), and all of its support equipment.HardwareIt is a system composed of people and computers that processes or interprets information.Information SystemExplain what is meant by PRODUCT with reference to one of the eight principles as per the ACM/IEEE Code of Ethics ?Software engineers shall ensure that their products and related modifications meet the highest professional standards possibleSelect the incorrect statement: “Software engineers shouldbe dependent on their colleagues.”
-These are the policies that govern the operation of a computer system. ProceduresThe reason for software bugs and failures is due toBoth Software companies and DevelopersIdentify the correct statement: “Software engineers shallact consistently with the public interest.”
-A field studying computers and algorithmic processes, including their principles, their software and hardware designs, their applications, and their impact on society, whereas IS emphasizes functionality over design.Computer information system
-It is important in designing software that is free from unnatural restrictions and limitations.GeneralityIt refers to computer programs and the manuals (if any) that support them.SoftwareChoose the correct option in terms of Issues related to professional responsibilityBoth Confidentiality & Intellectual property rights
-“Software engineers should not use their technical skills to misuse other people’s computers.”Here the term misuse refers to:All of the mentioned
-They deal with structures and algorithms without regard for the meaning or importance of the data that is involved.Software developers
-It implies separating software into components according to functionality and responsibility.ModularityAn ________________ process simplifies verification. If you develop software by adding small increments of functionality, then, for verification, you only need to deal with the added portionIncremental Development
-Efficiency in a software product does not include ________licensingAs per an IBM report, “31%of the project get cancelled before they are completed, 53% overrun their cost estimates by an average of 189% and for every 100 projects, there are 94 restarts”.What is the reason for these statistics ?Lack of adequate training in software engineering
-Company has latest computers and state-of the- art software tools, so we shouldn’t worry about the quality of the product.FalseIdentify an ethical dilemma from the situations mentioned below:Your employer releases a safety-critical system without finishing the testing of the system
-It is often easier to use if these two concerns are divided as much as possible into separate sets of client functions.data structure componentBuilding a wall is easier than building a home or other structure, and as software grows in scale, engineering must step up to provide scientific procedure.Large SoftwareThe price of computer and electronic hardware has decreased as the hardware industry has proven its abilities and undergone significant manufacturing.CostA better software development process results in better and higher-quality software.Quality ManagementThe environment in which a user works has a significant impact on the constantly evolving and adapting nature of software.Dynamic NatureIt would be simpler to generate new software than to scale an existing one if the software development process were not founded on scientific and engineering principles.ScalabilityThese are systems that scientists and engineers have created to simulate physical processes or situations that involve a lot of different, interacting objects. These frequently require high-performance parallel systems since they are computationally demanding.Data Collection SystemsThese are commercial systems built to handle data processing in bulk. To produce corresponding outputs, they process a lot of different inputs.Batch Processing SystemsThese are software-based hardware management and control solutions. There are probably more embedded systems than any other kind of system in terms of numbers.Embedded Control SystemsThese are local computer-based application systems. They come with all necessary features and don't require a network connection.Stand-Alone ApplicationsThese systems are made up of a variety of other software systems, some of which may be standardized programs like spreadsheets.System of Systems[1] is a discipline of engineering that deals with creating software products using established scientific concepts, practices, and methodologies.Software EngineeringIt does not fall under the category of those terms
-a.
-REUSABILITY
-b.
-INTEROPERABILITY
-c.
-ADAPTABILITY
-d.
-DEPENDABILITY
-e.
-NONE OF THE ABOVEDependabilityA collection of executable programming code, related libraries, and documentations is referred to as [1].Software[1] is all about creating products while utilizing clear, scientific ideas and procedures.EngineeringA powerful technique for reducing the problem's complexity is [1].AbstractionIt does not fall under the category of those terms
-
-a.
-MAINATAINABILITY
-b.
-DEPENDABILITY
-c.
-FUNCTIONALITY
-d.
-USABILITY
-e.
-NONE OF THE ABOVE
-NONE OF THE ABOVE
-DEPENDABILITYIt does not fall under the category of those terms
-
-a.
-OPERATIONAL
-b.
-SAFETY TRANSITIONAL
-c.
-REUSABILITY
-d.
-NONE OF THE ABOVE
-e.
-TRANSITIONAL
-ReusabilityIt does not fall under the category of those terms
-
-a.
-PORTABILITY
-b.
-MAINTENANCE
-c.
-BUDGET
-d.
-NONE OF THE ABOVE
-e.
-OPERATIONAL
-PortabilityIt does not fall under the category of those terms
-
-a.
-SECURITY
-b.
-MODULARITY
-c.
-NONE OF THE ABOVE
-d.
-FLEXIBILITY
-e.
-SCALABILITY
-SecurityA technique known as [1] divides a complex problem into several smaller problems, which are then solved one at a time.Burla DecompositionIt is often easier to use if these two concerns are divided as much as possible into separate sets of client functions.data structure component
-“Software engineers should not use their technical skills to misuse other people’s computers.”Here the term misuse refers to:All of the Above
-PRELIM + LAB QUIZ 2
-Every project should have a well-defined objective. For example, many people hire firms to design and build a new house, but each house, like each person, is unique.A project has a unique purpose.Identify the sub-process of process improvementProcess AnalysisA 66.6% risk is considered ashighWhich of the following is/are main parameters that you should use when computing the costs of a software development project?all of the mentionedResources, such as people and equipment, need to do work.A project is an endeavorWhich of the following is incorrect activity for the configuration management of a software system?Internship managementProject managers have to assess the risks that may affect a project.FalseMost projects have many interested parties or stakeholders, but someone must take the primary role of sponsorship.A project must have a primary customer or sponsorQuality planning is the process of developing a quality plan forprojectIt refers to the budgeted amount available for the project.Cost constraintsThe process each manager follows during the life of a project is known asProject Management Life CycleIt refers to what must be done to produce the project's end resultScope constraintsA temporary endeavor undertaken to create a unique product, service, or result.ProjectAn independent relationship must exist between the attribute that can be measured and the external quality attribute.FalseWhich of the following is not project management goal?Avoiding customer complaintsProjects are often defined broadly when they begin, and as time passes, the specific details of the project become clearer.A project is developed using progressive elaboration or in an iterative fashion.
-It refers to the amount of time available to complete a projectTime constraintsA project’s duration might be just one week or it might go on for years, but every project has an end date.A project is temporaryWhich of the following is not considered as a risk in project management?TestingResources include people, hardware, software, or other assets. Many different types of people, skill sets, and resources are needed to build a home.A project requires resources, often from various areas
-[1] is a fairly simple check to ensure that all software components work together without any issues.Development System
-
-Implementation and unit testingFor long-term support and the company's reputation, [1] is undoubtedly the most crucial phase.TestingThe year [1] is regarded as the start of the modern era of project management.1950There are two well-known forerunners of project management: [1], who developed the five management functions, and Henry Gantt, recognized as the father of planning and control techniques and inventor of the Gantt Chart.Henri FayolThe [1] describes a logical flow of tasks to complete the project's objectives or goals.Project Life CycleThe [1] is the selection of your computer's or workstation's hardware for the development system. This is the concrete element of the development system.Hardware PlatformTo ensure that the program is performing exactly as it should, [1] is done. Prior to any software being made available to users, this kind of testing is essential.Functional TestingA [1] is a short-term undertaking started to produce an original good, service, or outcome.ProjectArrange the phases or cycles of a software development project.1. Requirement Gathering
-3. Creating architecture and design documents
-4. Implementation and coding
-7. Documentation
-8. Support and new featuresTypically, the [1] provides guidance and funds for the endeavor.Project Sponsor[1] refers to the work done in businesses to maintain their operations.OperationsIt refers to what must be done to produce the project's end resultScope constraintsA temporary endeavor undertaken to create a unique product, service, or result.ProjectWhich of the following is/are main parameters that you should use when computing the costs of a software development project?
-all of the mentioned
-A 66.6% risk is considered as
-HIGH
-The process each manager follows during the life of a project is known as
- Project Management Life Cycle
-Identify the sub-process of process improvement
-Process analysis
-It refers to the budgeted amount available for the project.
-Cost constraints
-A project’s duration might be just one week or it might go on for years, but every project has an end date.A project is temporary
-Every project should have a well-defined objective. For example, many people hire firms to design and build a new house, but each house, like each person, is unique.A project has a unique purpose.
-Quality planning is the process of developing a quality plan forprojectWhich of the following is not considered as a risk in project management?TestingWhich of the following is incorrect activity for the configuration management of a software system?Internship management
-Project managers have to assess the risks that may affect a project.FalseResources include people, hardware, software, or other assets. Many different types of people, skill sets, and resources are needed to build a home.A project requires resources, often from various areas
-Which of the following is not project management goal?Avoiding customer complaints
-An independent relationship must exist between the attribute that can be measured and the external quality attribute.FalseProjects are often defined broadly when they begin, and as time passes, the specific details of the project become clearer.A project is developed using progressive elaboration or in an iterative fashion.
-It refers to the amount of time available to complete a projectTime constraints
-Most projects have many interested parties or stakeholders, but someone must take the primary role of sponsorship.A project should have a primary customer or sponsor
-Resources, such as people and equipment, need to do work.A project is an endeavor
-To ensure that the program is performing exactly as it should, [1] is done. Prior to any software being made available to users, this kind of testing is essential.Functional TestingThe [1] is the selection of your computer's or workstation's hardware for the development system. This is the concrete element of the development system.Hardware PlatformFor long-term support and the company's reputation, [1] is undoubtedly the most crucial phase.Testing[1] refers to the work done in businesses to maintain their operations.OperationsA [1] is a short-term undertaking started to produce an original good, service, or outcome.ProjectArrange the phases or cycles of a software development project.The year [1] is regarded as the start of the modern era of project management.
-1950There are two well-known forerunners of project management: [1], who developed the five management functions, and Henry Gantt, recognized as the father of planning and control techniques and inventor of the Gantt Chart.
-Henri Fayol[1] is a fairly simple check to ensure that all software components work together without any issues.Sanity TestingThe [1] describes a logical flow of tasks to complete the project's objectives or goals.
-Project Life CycleTypically, the [1] provides guidance and funds for the endeavor.
-Project Sponsor
-MIDTERM + LAB QUIZ 1
-What is the major drawback of using RAD Model?Increases reusability of components, Highly specialized & skilled developers/designers are requiredRAD Model has5 phasesThe functionality of the software and constraints on its operation must be defined.Software specificationWhich model can be selected if user is involved in all the phases of SDLC?RAD Model
-This takes the fundamental process activities of specification, development, validation, and evolution and represents them as separate process phases such as requirements specification, software design, implementation, testing, and so on.The waterfall model
-Which one of the following is not a phase of Prototyping Model?Coding
-This approach interleaves the activities of specification, development, and validation. The system is developed as a series of versions (increments), with each version adding functionality to the previous version.Incremental development
-Which of the following statements regarding Build & Fix Model is wrong?It scales up well to large projects
-RAD stands forRapid Application DevelopmentBuild & Fix Model is suitable for programming exercises of ___________ LOC (Line of Code).100-200SDLC stands forSystem Development Life cycleWhich one of the following models is not suitable for accommodating any change?Waterfall ModelThe software to meet the specification must be produced.Software design and implementationIt is a simplified representation of a software process. Each process represents a process from a particular perspective, and thus provides only partial information about that process. Software process modelsThis approach is based on the existence of a significant number of reusable components. The system development process focuses on integrating these components into a system rather than developing them from scratchReuse-oriented software engineeringThe software must evolve to meet changing customer needs.Software evolutionThe system’s services, constraints, and goals are established by consultation with system users. They are then defined in detail and serve as a system specification.Requirements analysis and definitionWhich is not one of the types of prototype of Prototyping Model?Diagonal Prototype
-During this stage, the software design is realized as a set of programs or program unitsImplementation and unit testing
-The software must be validated to ensure that it does what the customer wants.Software validation
-A product, service, component of a product, or process's ability to meet client expectations is referred to as its [1].qualityThe concept behind [1] is to create a prototype, make it available for user feedback, and then refine it via numerous iterations until a workable system is created.Prototyping
-
-
-
-
-
-
